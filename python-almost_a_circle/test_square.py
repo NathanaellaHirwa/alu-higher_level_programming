@@ -1,7 +1,4 @@
-#!/usr/bin/python3
-"""class for square.py"""
-
-"""defines unittests for models/square.py.
+ttests for models/square.py.
     Unittest classes:
         TestSquare_instantiation
         TestSquare_size

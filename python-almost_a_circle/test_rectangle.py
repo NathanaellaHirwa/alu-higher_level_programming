@@ -1,8 +1,6 @@
-#!/usr/bin/ptyhon3
-"""class for rectangle.py"""
-
-""""
-defines unittests for models/rectangle.py.
+t for rectangle.py
+"""
+    Defines unittests for models/rectangle.py.
     Unittest classes:
         TestRectangle_instantiation
         TestRectangle_width
